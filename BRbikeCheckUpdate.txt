@@ -1,6 +1,6 @@
 {
-    "version": 1.00,
+    "version": 1.01,
     "area": "All",
-    "url":"https://github.com/Moura96/BRsame/raw/main/BRbike-1.00-app-debug.apk",
+    "url":"https://github.com/Moura96/BRsame/raw/main/1.01-BRapp-debug.apk",
     "files":0
 }
